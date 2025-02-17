@@ -57,9 +57,6 @@
     grid-column: 1/2;
 }
 
-body {
-    background-image: linear-gradient(to right, red, rgba(244, 84, 10, 0.637))
-}
 
 @media only screen and (min-width:300px) and (max-width:550px){
     #contain {
